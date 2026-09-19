@@ -1,0 +1,8 @@
+## Data Source & Attribution
+
+This repository uses data made available under the **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)** license.
+
+* **Original Dataset:** [Top 1500 games on steam by revenue 09-09-2024](https://www.kaggle.com/datasets/alicemtopcu/top-1500-games-on-steam-by-revenue-09-09-2024)
+* **Author / Creator:** Ali Cem Topcu (`alicemtopcu`)
+* **Base License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+* **Transformations:** [e.g., "Feature engineering, data aggregation, and exploratory analysis"]
